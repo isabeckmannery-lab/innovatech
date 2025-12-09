@@ -1,0 +1,6 @@
+# requirements.txt para Arduino Motor Passo - Versão Minimalista
+
+tensorflow==2.10.0
+opencv-python==4.6.0.66
+numpy==1.21.6
+pyserial==3.5
