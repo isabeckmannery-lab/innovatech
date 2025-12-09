@@ -1,0 +1,4 @@
+0 Rolamento
+1 Porca
+2 Parafuso
+3 Sem peça
